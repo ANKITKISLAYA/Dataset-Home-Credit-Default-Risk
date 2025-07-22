@@ -1,42 +1,42 @@
 [
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/HomeCredit_columns_description.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/HomeCredit_columns_description.csv",
 	"file_name":"HomeCredit_columns_description.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/POS_CASH_balance.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/POS_CASH_balance.csv",
 	"file_name":"POS_CASH_balance.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/application_test.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/application_test.csv",
 	"file_name":"application_test.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/application_train.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/application_train.csv",
 	"file_name":"application_train.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/bureau.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/bureau.csv",
 	"file_name":"bureau.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/bureau_balance.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/bureau_balance.csv",
 	"file_name":"bureau_balance.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/credit_card_balance.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/credit_card_balance.csv",
 	"file_name":"credit_card_balance.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/installments_payments.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/installments_payments.csv",
 	"file_name":"installments_payments.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/previous_application.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/previous_application.csv",
 	"file_name":"previous_application.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/blob/main/sample_submission.csv",
+	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/sample_submission.csv",
 	"file_name":"sample_submission.csv"
 	}
 ]
