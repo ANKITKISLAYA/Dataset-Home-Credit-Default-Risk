@@ -8,16 +8,8 @@
 	"file_name":"POS_CASH_balance.csv"
 	},
 	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/application_test.csv",
-	"file_name":"application_test.csv"
-	},
-	{
 	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/application_train.csv",
 	"file_name":"application_train.csv"
-	},
-	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/bureau.csv",
-	"file_name":"bureau.csv"
 	},
 	{
 	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/bureau_balance.csv",
@@ -34,9 +26,5 @@
 	{
 	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/previous_application.csv",
 	"file_name":"previous_application.csv"
-	},
-	{
-	"csv_relative_url": "Dataset-Home-Credit-Default-Risk/refs/heads/main/sample_submission.csv",
-	"file_name":"sample_submission.csv"
 	}
 ]
